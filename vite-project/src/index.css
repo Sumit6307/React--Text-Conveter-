@@ -1,0 +1,97 @@
+
+button {
+  padding:  5px;
+  background-color: aqua;
+  color:black;
+
+}
+
+
+.Main {
+  border-radius: 20px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  font-weight: 100%;
+}
+
+
+.Right {
+  margin-left: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 5px;
+}
+
+.Left {
+  margin-left: 400px;
+}
+
+.Src{
+   margin-left: 20px;
+   border-radius: 5px;
+   background-color: burlywood;
+}
+
+.Place{
+  height: 25px;
+}
+
+.Texti{
+  margin-top: 30px;
+  margin-left: 170px;
+}
+
+.Type{
+  margin-top: 7px;
+  margin-left: 170px;
+  height: 200px;
+  width: 800px;
+  border: 3px solid lightblue;
+  box-shadow: 2px 2px 2px lightblue;
+}
+
+
+.Upbt{
+ margin-top: 3px;
+ margin-left: 170px;
+ border: 2px solid black;
+ border-radius: 5px;  
+ background-color: blue;
+ color: white;  
+}
+
+.Summary{
+   margin-left: 168px;
+}
+
+
+.Lwbt,.Clear {
+   margin-left: 20px;
+   border: 2px solid black;
+   border-radius: 5px;
+   background-color: blue;
+ color: white;  
+  
+}
+
+
+.TextSummary{
+  margin-left: 168px;
+  
+}
+
+.Time,.Text-sum {
+   margin-left: 168px;
+    
+}
+
+.Preview{
+  font-size: 30px;
+  margin-left: 168px;
+  font-style: bold;
+  margin-bottom: 0;
+  margin-top: 0;
+}
